@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Kaushan+Script:400);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
@@ -20,7 +21,7 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Kaushan Script', handwriting;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
@@ -34,7 +35,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Kaushan Script', handwriting;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
@@ -1534,7 +1535,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #7f1933;
 }
 .cid-r2TFo5WMAr button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1751,7 +1752,7 @@ body {
 }
 .cid-r2TFo5WMAr .nav-link:hover,
 .cid-r2TFo5WMAr .dropdown-item:hover {
-  color: #146431 !important;
+  color: #819e83 !important;
 }
 .cid-r2TyTrcCJG {
   background-image: url("../../../assets/images/matrix-616x308.jpg");
